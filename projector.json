@@ -2,7 +2,7 @@
   "httpStatus": 200,
   "requestId": "some-4564-ds56-fdsg",
   "resource": {
-    "LogicVersion": "6.5",
+    "LogicVersion": "6.6",
     "featureToggles": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
