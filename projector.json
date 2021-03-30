@@ -1,8 +1,8 @@
 {
-  "httpStatus": 200,
+  "httpStatus": 303,
   "requestId": "some-4564-ds56-fdsg",
   "resource": {
-    "LogicVersion": "6.6",
+    "LogicVersion": "666",
     "featureToggle": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
