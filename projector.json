@@ -3,7 +3,7 @@
   "requestId": "some-4564-ds56-fdsg",
   "resource": {
     "LogicVersion": "6.6",
-    "featureToggles": {
+    "featureToggle": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
         "RemoveDwellWeekFromDemandNeed": true,
