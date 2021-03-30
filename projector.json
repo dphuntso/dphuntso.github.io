@@ -6,8 +6,8 @@
     "featureToggle": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
-        "RemoveDwellWeekFromDemandNeed": true,
-        "UseReorderForPreseason": true,
+        "RemoveDwellWeekFromDemandNeed": false,
+        "UseReorderForPreseason": false,
         "UseDynamicSeasonalityReference": true,
         "UseExtendedBackloadedPercentage": true,
         "FixBackloadedMOQCheck": true,
