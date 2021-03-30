@@ -1,17 +1,17 @@
 {
-  "httpStatus": 303,
-  "requestId": "some-4564-ds56-fdsg",
+  "httpStatus": 200,
+  "requestId": "requestId",
   "resource": {
-    "LogicVersion": "666",
+    "LogicVersion": "111",
     "featureToggle": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
         "RemoveDwellWeekFromDemandNeed": false,
         "UseReorderForPreseason": false,
         "UseDynamicSeasonalityReference": true,
-        "UseExtendedBackloadedPercentage": true,
+        "UseExtendedBackloadedPercentage": false,
         "FixBackloadedMOQCheck": true,
-        "UseDPOGoal": true
+        "UseDPOGoal": false
       }
   }
 }
