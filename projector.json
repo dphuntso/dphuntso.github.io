@@ -1,4 +1,6 @@
 {
+  "httpStatus": 200,
+  "requestId": "some-4564-ds56-fdsg"
   "resource": {
     "LogicVersion": "6.5",
     "featureToggles": {
