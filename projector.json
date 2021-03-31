@@ -1,7 +1,7 @@
 {
   "httpStatus": 200,
   "requestId": "requestId",
-  "resource": {
+  "resources": {
     "LogicVersion": "6.5",
     "featureToggle": {
         "DwellPeriod": 1,
