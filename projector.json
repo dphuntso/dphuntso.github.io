@@ -4,7 +4,7 @@
   "resource": {
     "LogicVersion": "6.6",
     "featureToggle": {
-        "DwellPeriod": 1.1,
+        "DwellPeriod": 2,
         "UseReorderEnhancements": true,
         "RemoveDwellWeekFromDemandNeed": false,
         "UseReorderForPreseason": false,
