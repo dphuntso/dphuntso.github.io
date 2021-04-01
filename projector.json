@@ -2,7 +2,7 @@
   "httpStatus": 200,
   "requestId": "requestId",
   "resource": {
-    "LogicVersion": "6.5",
+    "LogicVersion": "6.6",
     "featureToggle": {
         "DwellPeriod": 1,
         "UseReorderEnhancements": true,
